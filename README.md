@@ -8,6 +8,7 @@ A growing collection of production-ready website templates — landing pages, po
 
 | Template | Category | Preview | Status |
 |----------|----------|---------|--------|
+| [Broadsheet](broadsheet/) | News / Editorial | ![Broadsheet](broadsheet/assets/home.png) | ✅ Available |
 | _More templates are on the way_ | — | — | 🛠️ In progress |
 
 > New templates drop regularly. Star this repo to get notified.
